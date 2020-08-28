@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Aug 18 16:48:55 CST 2020
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=kupao.jar
+manifest.mergeall=true
+manifest.mainclass=com.chaofan.run.main.StartGame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
